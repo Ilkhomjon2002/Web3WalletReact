@@ -33,14 +33,14 @@ Follow these steps to get the project running locally:
 3. **Configure environment variables:**
    Create a `.env` file in the root directory and add the following:
    ```env
-   REACT_APP_INFURA_API_URL=<YOUR_INFURA_ENDPOINT>
-   REACT_APP_PRIVATE_KEY=<YOUR_WALLET_PRIVATE_KEY>
-   REACT_APP_CONTRACT_ADDRESS=<DEPLOYED_CONTRACT_ADDRESS>
+   VITE_GIPHY_API = <GIPHY_API_KEY>
+   VITE_CONTRACT_ADDRESS = <CONTRACT_ADDRESS>
+   URL = <ETHEREUM_NETWORK_URL>
    ```
 
 4. **Run the application:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Smart Contract
