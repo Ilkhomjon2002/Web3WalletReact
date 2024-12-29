@@ -74,11 +74,6 @@ The contract is deployed on the Sepolia network. You can find the contract's ABI
 3. **Submit Transaction**: Confirm the transaction through MetaMask.
 4. **Transaction History**: View completed transactions.
 
-## Screenshots
-
-![Home Page](./screenshots/home.png)
-![Transaction Page](./screenshots/transaction.png)
-
 ## Testnet Details
 
 - **Network**: Ethereum Sepolia Testnet
